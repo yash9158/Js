@@ -32,7 +32,7 @@ let myObj = {
 //     console.log("Hello world");
 // }
 
-console.log(typeof bhosdike aj);
+console.log(typeof bigNumber);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
